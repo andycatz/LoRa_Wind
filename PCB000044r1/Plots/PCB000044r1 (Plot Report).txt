@@ -1,0 +1,60 @@
+Plot Report
+-----------
+
+Report Written:     Sunday, January 30, 2022
+Project Path:       D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.pcb
+Design Title:       
+Created:            03/01/2022 11:23:58
+Last Saved:         29/01/2022 21:34:18
+Editing Time:       304 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in mm.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.mop"
+
+
+NC Drill Output
+===============
+
+D:\Documents\Design Spark\000000's\PCB000044r1\Plots\PCB000044r1 - NC Drill Data - [Through Hole].nc
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size       Count   ID
+    ----------------------------------
+    T001  0.60000 mm 77    E
+    T002  0.60960 mm 16    B
+    T003  0.80000 mm 1     J
+    T004  0.81280 mm 14    L
+    T005  1.00000 mm 26    D
+    T006  1.20000 mm 3     C
+    T007  1.49860 mm 7     O
+    T008  3.20000 mm 4     F
+    ----------------------------------
+    Total            148
+    ----------------------------------
+
+
+End Of Report.

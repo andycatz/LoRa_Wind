@@ -1,0 +1,165 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Saturday, January 29, 2022
+Project Path:       D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.pcb
+Design Title:       
+Created:            03/01/2022 11:23:58
+Last Saved:         29/01/2022 20:46:41
+Editing Time:       260 min
+Units:              mm (precision 1)
+
+Added net "N0074".
+Added net "N0075".
+Added net "N0076".
+Added net "N0077".
+Added net "N0079".
+Added net "N0080".
+Added net "N0081".
+Added net "N0082".
+Added net "N0084".
+Added net "N0085".
+Added net "N0086".
+Added net "N0087".
+Added net "N0088".
+Added net "N0089".
+Added net "N0090".
+Added net "N0091".
+Added net "N0092".
+Added net "N0093".
+Added net "N0094".
+Added net "N0095".
+Added net "N0096".
+Added net "N0097".
+Added net "N0098".
+Added net "N0099".
+Added net "N0100".
+Added net "N0101".
+Added net "N0102".
+Added net "N0103".
+Added net "N0104".
+Added net "N0105".
+Added net "N0106".
+Added net "N0107".
+
+Added component reference "U3" of component "ADS1115IDGST", package "VSSOP10".
+Added component reference "C10" of component "C0603C104K5RACTU", package "CAPC1608X95N".
+Added value "Value=0.1uF 50V 10%" to component reference "C10".
+Added value "Package=0603" to component reference "C10".
+Added component reference "P54" of component "PAD0.6MM", package "PAD".
+Added component reference "P55" of component "PAD0.6MM", package "PAD".
+Added component reference "P56" of component "PAD0.6MM", package "PAD".
+Added component reference "P57" of component "PAD0.6MM", package "PAD".
+Added component reference "P58" of component "PAD0.6MM", package "PAD".
+Added component reference "P59" of component "PAD0.6MM", package "PAD".
+Added component reference "P60" of component "PAD0.6MM", package "PAD".
+Added component reference "P61" of component "PAD0.6MM", package "PAD".
+Added component reference "P62" of component "PAD0.6MM", package "PAD".
+Added component reference "P63" of component "PAD0.6MM", package "PAD".
+Added component reference "R9" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R13" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R15" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R16" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R17" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R18" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R20" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "R21" of component "CRCW060310K0FKEAHP", package "RESC1608X50N".
+Added component reference "P64" of component "PAD0.6MM", package "PAD".
+Added component reference "P65" of component "PAD0.6MM", package "PAD".
+Added component reference "P66" of component "PAD0.6MM", package "PAD".
+Added component reference "P67" of component "PAD0.6MM", package "PAD".
+Added component reference "P68" of component "PAD0.6MM", package "PAD".
+Added component reference "P69" of component "PAD0.6MM", package "PAD".
+Added component reference "P70" of component "PAD0.6MM", package "PAD".
+Added component reference "P71" of component "PAD0.6MM", package "PAD".
+Added component reference "P72" of component "PAD0.6MM", package "PAD".
+Added component reference "P73" of component "PAD0.6MM", package "PAD".
+Added component reference "P74" of component "PAD0.6MM", package "PAD".
+Added component reference "P75" of component "PAD0.6MM", package "PAD".
+Added component reference "P76" of component "PAD0.6MM", package "PAD".
+Added component reference "P77" of component "PAD0.6MM", package "PAD".
+Added component reference "P78" of component "PAD0.6MM", package "PAD".
+Added component reference "P79" of component "PAD0.6MM", package "PAD".
+Added component reference "LED2" of component "KP-2012EC", package "LEDC2012X110N".
+Added component reference "LED3" of component "KP-2012EC", package "LEDC2012X110N".
+Added component reference "R22" of component "CRCW0603150RFKTA", package "RESC1608X50N".
+Added value "Value=150R 1%" to component reference "R22".
+Added value "Package=0603" to component reference "R22".
+Added component reference "R23" of component "CRCW0603150RFKTA", package "RESC1608X50N".
+Added value "Value=150R 1%" to component reference "R23".
+Added value "Package=0603" to component reference "R23".
+Added component reference "P80" of component "PAD0.6MM", package "PAD".
+Added component reference "P81" of component "PAD0.6MM", package "PAD".
+Added component reference "P82" of component "PAD0.6MM", package "PAD".
+Added component reference "P83" of component "PAD0.6MM", package "PAD".
+
+Connected pin "U3.1" to net "N0076".
+Connected pin "U3.2" to net "N0077".
+Connected pin "U3.3" to net "N0075".
+Connected pin "U3.4" to net "N0079".
+Connected pin "U3.5" to net "N0080".
+Connected pin "U3.6" to net "N0085".
+Connected pin "U3.7" to net "N0084".
+Connected pin "U3.8" to net "N0074".
+Connected pin "U3.9" to net "N0082".
+Connected pin "U3.10" to net "N0081".
+Connected pin "C10.1" to net "N0075".
+Connected pin "C10.2" to net "N0074".
+Connected pin "P54.1" to net "N0076".
+Connected pin "P55.1" to net "N0077".
+Connected pin "P56.1" to net "N0075".
+Connected pin "P57.1" to net "N0079".
+Connected pin "P58.1" to net "N0080".
+Connected pin "P59.1" to net "N0081".
+Connected pin "P60.1" to net "N0082".
+Connected pin "P61.1" to net "N0074".
+Connected pin "P62.1" to net "N0084".
+Connected pin "P63.1" to net "N0085".
+Connected pin "R9.1" to net "N0086".
+Connected pin "R9.2" to net "N0092".
+Connected pin "R13.1" to net "N0087".
+Connected pin "R13.2" to net "N0093".
+Connected pin "R15.1" to net "N0088".
+Connected pin "R15.2" to net "N0094".
+Connected pin "R16.1" to net "N0089".
+Connected pin "R16.2" to net "N0095".
+Connected pin "R17.1" to net "N0090".
+Connected pin "R17.2" to net "N0096".
+Connected pin "R18.1" to net "N0091".
+Connected pin "R18.2" to net "N0097".
+Connected pin "R20.1" to net "N0098".
+Connected pin "R20.2" to net "N0100".
+Connected pin "R21.1" to net "N0099".
+Connected pin "R21.2" to net "N0101".
+Connected pin "P64.1" to net "N0086".
+Connected pin "P65.1" to net "N0087".
+Connected pin "P66.1" to net "N0088".
+Connected pin "P67.1" to net "N0089".
+Connected pin "P68.1" to net "N0090".
+Connected pin "P69.1" to net "N0091".
+Connected pin "P70.1" to net "N0092".
+Connected pin "P71.1" to net "N0093".
+Connected pin "P72.1" to net "N0094".
+Connected pin "P73.1" to net "N0095".
+Connected pin "P74.1" to net "N0096".
+Connected pin "P75.1" to net "N0097".
+Connected pin "P76.1" to net "N0100".
+Connected pin "P77.1" to net "N0101".
+Connected pin "P78.1" to net "N0098".
+Connected pin "P79.1" to net "N0099".
+Connected pin "LED2.1" to net "N0103".
+Connected pin "LED2.2" to net "N0102".
+Connected pin "LED3.1" to net "N0105".
+Connected pin "LED3.2" to net "N0104".
+Connected pin "R22.1" to net "N0103".
+Connected pin "R22.2" to net "N0106".
+Connected pin "R23.1" to net "N0105".
+Connected pin "R23.2" to net "N0107".
+Connected pin "P80.1" to net "N0106".
+Connected pin "P81.1" to net "N0107".
+Connected pin "P82.1" to net "N0102".
+Connected pin "P83.1" to net "N0104".
+
+
+End Of Report.

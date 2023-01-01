@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Saturday, January 29, 2022
+Project Path:       D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.pcb
+Design Title:       
+Created:            03/01/2022 11:23:58
+Last Saved:         29/01/2022 20:46:41
+Editing Time:       260 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "PCB000044r1"
+========================================================================
+
+
+End Of Report.

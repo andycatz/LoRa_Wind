@@ -1,0 +1,67 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Saturday, January 29, 2022
+Project Path:       D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000044r1\PCB000044r1.pcb
+Design Title:       
+Created:            03/01/2022 11:23:58
+Last Saved:         29/01/2022 21:23:30
+Editing Time:       296 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.
